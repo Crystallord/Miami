@@ -15,6 +15,6 @@ The main purpose of this project is mastering HTML & CSS with minimum JS involvi
 
 ***
 
-Link to the [Figma layout](https://www.figma.com/file/aHd2rHMrnzDXhowLuIQjIyVQ/ThriveTalk-Landing-Page?node-id=0%3A1)
+Link to the [Figma layout](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
 
 Link to the [web-page](https://Crystallord.github.io/Miami/)
